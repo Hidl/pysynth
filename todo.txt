@@ -1,0 +1,7 @@
+-anti aliasing on pywave class
+-polyblamp on triangleosc is broken
+-phase offset op signals
+-other wave forms
+-real time synthesis
+-real time spectography
+-synth a cello (thick band etc.)
